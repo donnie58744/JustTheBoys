@@ -1,0 +1,50 @@
+.PushIt
+{
+    float: left;
+    width: 20px;
+    height: 1px;
+}
+
+.Spliter
+{
+    height: 70px;
+    width: 1px;
+}
+
+.Spliter2
+{
+    height: 70px;
+    width: 1px;
+}
+
+.CommentTextBoxStyle
+{
+    height: 100px;
+    width: 400px;
+    resize: none;
+    font-size: 16px;
+    outline-color: red;
+    border-color: blue;
+    background-color: darkgrey;
+    color: black;
+    caret-color: black;
+} 
+
+.TextBoxArea
+{
+    max-width: 407px;
+}
+
+
+.CommentArea
+{
+    font-size: 20px;
+    color: aqua;
+}
+
+.DividerForBtns
+{
+    width: 10px;
+    height: 1px;
+    float: right;
+}

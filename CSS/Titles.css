@@ -1,0 +1,12 @@
+.RefreshTitle
+{
+    color: red;
+    display: inline;
+}
+
+.MsgTitle
+{
+    color: aqua;
+    float: left;
+    font-size: 20px;
+}
