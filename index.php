@@ -14,19 +14,19 @@
         $user = $_POST['user'];
         $pass = $_POST['pass'];
 
-        if($user == "donnie58744" && $pass == "TheOffice12")
+        if($user == "donnie58744" && $pass == "###")
         {
             $_SESSION['use']=$user;
             header('Location:Home.php');
         }
 
-        else if($user == "rwGnarly13" && $pass == "HulkStrong2001")
+        else if($user == "rwGnarly13" && $pass == "###")
         {
             $_SESSION['use']=$user;
             header('Location:Home.php');
         }
         
-        else if($user == "ChrisIsKool" && $pass == "FuckSchool42069")
+        else if($user == "ChrisIsKool" && $pass == "###")
         {
             $_SESSION['use']=$user;
             header('Location:Home.php');
